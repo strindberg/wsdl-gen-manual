@@ -1,2 +1,2 @@
 # wsdl-gen-manual
-Working wsdl generaton example
+Working wsdl generation example
